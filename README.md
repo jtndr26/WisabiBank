@@ -1,1 +1,1 @@
-# WisabimBank
+# WisabiBank
