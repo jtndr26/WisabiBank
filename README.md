@@ -60,8 +60,10 @@ https://docs.google.com/spreadsheets/d/1fk5xNs-TTzoqW3xZh_tUaK7RmvVETzQ-/edit?us
    - Continuously iterate and refine the report based on feedback from stakeholders and users.
    - Incorporate any additional requirements or modifications to enhance the report's effectiveness and relevance.
 
-![5](https://github.com/jtndr26/WisabiBank/assets/78334379/573d7ca2-d87b-49a7-9a0d-19a09c9860a1)
+![image](https://github.com/jtndr26/WisabiBank-ATM-Transaction/assets/78334379/0f1b2017-b719-4142-951d-374503764057)
+
 ![4](https://github.com/jtndr26/WisabiBank/assets/78334379/bde2c66a-8c18-4b1a-8141-8f1cf363cab1)
+
 ![2](https://github.com/jtndr26/WisabiBank/assets/78334379/63b36c43-6972-476a-bc61-cb51c7221e46)
 
 
